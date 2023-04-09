@@ -1,0 +1,2 @@
+sprite_index = sPlayerMushroomIdle
+instance_destroy(oMushroom)
